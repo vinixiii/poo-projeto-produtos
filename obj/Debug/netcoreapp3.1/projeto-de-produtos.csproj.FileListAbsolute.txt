@@ -1,0 +1,13 @@
+C:\Users\vinixiii\Desktop\projeto-de-produtos\bin\Debug\netcoreapp3.1\projeto-de-produtos.exe
+C:\Users\vinixiii\Desktop\projeto-de-produtos\bin\Debug\netcoreapp3.1\projeto-de-produtos.deps.json
+C:\Users\vinixiii\Desktop\projeto-de-produtos\bin\Debug\netcoreapp3.1\projeto-de-produtos.runtimeconfig.json
+C:\Users\vinixiii\Desktop\projeto-de-produtos\bin\Debug\netcoreapp3.1\projeto-de-produtos.runtimeconfig.dev.json
+C:\Users\vinixiii\Desktop\projeto-de-produtos\bin\Debug\netcoreapp3.1\projeto-de-produtos.dll
+C:\Users\vinixiii\Desktop\projeto-de-produtos\bin\Debug\netcoreapp3.1\projeto-de-produtos.pdb
+C:\Users\vinixiii\Desktop\projeto-de-produtos\obj\Debug\netcoreapp3.1\projeto-de-produtos.csprojAssemblyReference.cache
+C:\Users\vinixiii\Desktop\projeto-de-produtos\obj\Debug\netcoreapp3.1\projeto-de-produtos.AssemblyInfoInputs.cache
+C:\Users\vinixiii\Desktop\projeto-de-produtos\obj\Debug\netcoreapp3.1\projeto-de-produtos.AssemblyInfo.cs
+C:\Users\vinixiii\Desktop\projeto-de-produtos\obj\Debug\netcoreapp3.1\projeto-de-produtos.csproj.CoreCompileInputs.cache
+C:\Users\vinixiii\Desktop\projeto-de-produtos\obj\Debug\netcoreapp3.1\projeto-de-produtos.dll
+C:\Users\vinixiii\Desktop\projeto-de-produtos\obj\Debug\netcoreapp3.1\projeto-de-produtos.pdb
+C:\Users\vinixiii\Desktop\projeto-de-produtos\obj\Debug\netcoreapp3.1\projeto-de-produtos.genruntimeconfig.cache
