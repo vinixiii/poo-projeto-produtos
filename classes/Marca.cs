@@ -12,6 +12,10 @@ namespace projeto_de_produtos.classes
 
         public List<Marca> Marcas = new List<Marca>();
 
+        public void AdicionarNaLista(Marca marca) {
+            Marcas.Add(marca);
+        }
+        
         public Marca CadastrarMarca() {
 
             Marca novaMarca = new Marca();

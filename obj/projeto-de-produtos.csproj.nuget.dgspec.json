@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinixiii\\Desktop\\projeto-de-produtos\\projeto-de-produtos.csproj": {}
+    "C:\\Users\\vinixiii\\Desktop\\poo-projeto-produtos\\projeto-de-produtos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinixiii\\Desktop\\projeto-de-produtos\\projeto-de-produtos.csproj": {
+    "C:\\Users\\vinixiii\\Desktop\\poo-projeto-produtos\\projeto-de-produtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinixiii\\Desktop\\projeto-de-produtos\\projeto-de-produtos.csproj",
+        "projectUniqueName": "C:\\Users\\vinixiii\\Desktop\\poo-projeto-produtos\\projeto-de-produtos.csproj",
         "projectName": "projeto-de-produtos",
-        "projectPath": "C:\\Users\\vinixiii\\Desktop\\projeto-de-produtos\\projeto-de-produtos.csproj",
+        "projectPath": "C:\\Users\\vinixiii\\Desktop\\poo-projeto-produtos\\projeto-de-produtos.csproj",
         "packagesPath": "C:\\Users\\vinixiii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinixiii\\Desktop\\projeto-de-produtos\\obj\\",
+        "outputPath": "C:\\Users\\vinixiii\\Desktop\\poo-projeto-produtos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinixiii\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ namespace projeto_de_produtos.classes
         public Usuario CadastradoPor { get; set; }
         public List<Produto> ListaDeProdutos = new List<Produto>();
 
-        public void Cadastrar() {
+        public void Cadastrar(Marca marca) {
             Produto novoProduto = new Produto();
 
             Console.WriteLine("Digite o código do produto:");
@@ -29,6 +29,9 @@ namespace projeto_de_produtos.classes
 
             //Atribuimos nossa marca através de um método criado para cadastro
             novoProduto.Marca = Marca.CadastrarMarca();
+
+            //Adicionamos a marca à lista de marcas
+            marca.AdicionarNaLista(novoProduto.Marca);
 
             //Atribuimos o usuário através do método construtor
             novoProduto.CadastradoPor = new Usuario();

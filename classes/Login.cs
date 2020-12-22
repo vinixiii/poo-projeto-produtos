@@ -38,7 +38,7 @@ namespace projeto_de_produtos.classes
                 switch (opcao)
                 {
                     case "1":
-                        produto.Cadastrar();
+                        produto.Cadastrar(marca);
                         break;
                     case "2":
                         produto.Listar();
